@@ -21,7 +21,6 @@ public static void testAllocation(){
  alloaction4=new byte[4*_1MB];
 
 }
-
     public static void main(String[] args) {
         testAllocation();
     }
