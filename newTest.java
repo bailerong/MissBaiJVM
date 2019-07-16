@@ -1,6 +1,5 @@
 package newTest;
 //动态对象年龄判定
-/*
 * JVM参数如下：
 * -XX：+PrintGCDetails
 * -XX:UseSerialGC(使用Serial+Serial Old收集器组合)
