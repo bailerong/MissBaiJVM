@@ -1,4 +1,5 @@
 package count;
+//这是我们的一个测试文件
 
 /*
 * JVM参数：-xx ：+PrintGC
