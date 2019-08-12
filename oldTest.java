@@ -8,6 +8,7 @@ package old;
 *-XX:PretenureSizeThreshold=3145728（此时不能写3M）
 */
 //我们的对象的代码
+//什么称为我们的大对象呢？
 public class oldTest {
     private static final int _1MB=1024*1024;
     public static void testAlloaction(){
