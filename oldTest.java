@@ -15,7 +15,7 @@ public class oldTest {
         byte[] alloaction;
         alloaction=new byte[4*_1MB];
     }
-
+//代码很简单，但是我们需要明白的是什么是我们的大对象和内存的分配，比较重要
     public static void main(String[] args) {
         testAlloaction();
     }
