@@ -7,6 +7,7 @@ package newTest;
 * -XX ：SurvivorRatio=8(Eden: Survivor=8:1)
 * -XX :MaxTenuringThreshold=15
 * */
+//我么们的JVM
 public class newTest {
 private static final int _1MB=1024*1024;
 public static void testAllocation(){
